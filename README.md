@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Diana!
+I'm a junior data analyst passionate about AI-driven solutions and web development.
+Currently exploring cloud-based forecasting systems and medical web applications.
 
 <!--
 **Diana-35/Diana-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
